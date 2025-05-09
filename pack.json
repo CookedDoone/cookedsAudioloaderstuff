@@ -1,0 +1,10 @@
+{
+  "name": "Narcosis",
+  "description": "Song made by 'someguy'. Made for the Roblox game TWENTYONE, found in the main menu of the game.",
+  "author": "cookeddoone",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
